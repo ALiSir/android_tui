@@ -230,7 +230,7 @@ public class MainActivity extends AppCompatActivity implements OrientationActivi
         client = KsyRecordClient.getInstance(getApplicationContext());
         client.setConfig(config);
         client.setDisplayPreview(mSurfaceView);
-//        client.setCameraSizeChangedListener(mSurfaceView);
+//      client.setCameraSizeChangedListener(mSurfaceView);
         client.setOrientationActivity(this);
         client.setNetworkChangeListener(this);
         client.setPushStreamStateListener(this);

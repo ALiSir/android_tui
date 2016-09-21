@@ -15,6 +15,6 @@
     <string name="video_size">分辨率</string>
     <string name="choose">确定</string>
     <string name="Url">URL地址</string>
-    <string name="github">github</string>
+    <string name="title">安卓推流</string>
     <string name="rtmp_default">rtmp://192.168.212.164:1935/live/livestream</string>
 </resources>
