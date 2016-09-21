@@ -40,7 +40,7 @@ public class ConfigItem {
         if (config == null) {
             return null;
         }
-        String currentValue = "not set";
+        String currentValue = "暂无设置!";
         switch (index) {
             case Constants.SETTING_AUDIO_SAMPLE_RATE:
                 currentValue = config.getAudioSampleRate() + "Hz";
@@ -52,13 +52,13 @@ public class ConfigItem {
                 currentValue = config.getVideoBitRate() / 1000 + "Kbps";
                 break;
             case Constants.SETTING_CAMERY_TYPE:
-                currentValue = config.getCameraType() == Constants.CONFIG_CAMERA_TYPE_BACK ? "back" : "front";
+                currentValue = config.getCameraType() == Constants.CONFIG_CAMERA_TYPE_BACK ? "后置摄像头" : "前置摄像头";
                 break;
             case Constants.SETTING_VIDEO_SIZE:
                 currentValue = config.getVideoWidth() + "x" + config.getVideoHeight();
                 break;
             case Constants.SETTING_URL:
-                currentValue = "click to set";
+                currentValue = "点击设置";
                 break;
         }
         return currentValue;

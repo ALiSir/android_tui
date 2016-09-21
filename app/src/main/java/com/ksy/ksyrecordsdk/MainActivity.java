@@ -186,17 +186,16 @@ public class MainActivity extends AppCompatActivity implements OrientationActivi
             @Override
             public void onClick(final DrawerItem drawerItem, long l, final int position) {
                 if (position == Constants.SETTING_URL) {
-                    new AlertDialog.Builder(MainActivity.this).setTitle("User Input")
+                    new AlertDialog.Builder(MainActivity.this).setTitle("请输入推送地址：")
                             .setView(dialogView)
-                            .setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
+                            .setPositiveButton("确定", new DialogInterface.OnClickListener() {
 
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
                                     config.setmUrl(editInput.getText().toString());
                                     drawerItem.setTextSecondary(editInput.getText().toString());
-
                                 }
-                            }).setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                            }).setNegativeButton("取消", new DialogInterface.OnClickListener() {
 
                         @Override
                         public void onClick(DialogInterface dialog, int which) {
