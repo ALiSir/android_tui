@@ -12,8 +12,6 @@
         android:layout_centerVertical="true"
         android:text="@string/rtmp_default"
         android:hint="请输入视频推送地址" >
-
-        <requestFocus />
     </EditText>
 
    <!--  <EditText
