@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_8416d3ab1c86fe91252c9452e285577bc1ac7f64.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\moonstoneandroid\recordlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="24e304ee49c4d774bcdb04528b75054abf29a92f">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\moonstoneandroid-recordlib-unspecified_234a36bdbbf18f6a608f725b3256450ccd2989d5.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_da221e24028d9184c3bd874fc8e35aa63a7ebd0d.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_c6b98dc3b79bcfe5acbe8928c7b18642fde9eb1c.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\com.heinrichreimersoftware.materialdrawer\library\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d8fc46da25cd4359c2cd127b2b1246ecc72b582">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\com.heinrichreimersoftware.materialdrawer-library-2.1.2_023a7f9fb4087f7825b2a3aaf666a05b2d1f8242.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_ce455522eb5ddb97d8329f194dc50da345c3a6b7.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="926692214530f39eaed89159237d26cdc0ae6e48">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-21.0.3_aeb9899df66ed8eb1734a3ab3268881613f7fac3.jar" />
+    </item>
+    <item
+        jar="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\gitWork\GitDown\moonstoneandroid\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_df42acc004aec8ffb8c79943b072b79b79580842.jar" />
+    </item>
+
+</items>

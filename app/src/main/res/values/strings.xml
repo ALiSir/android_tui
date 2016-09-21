@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">安卓推流</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="video_bitrate">视屏频率</string>
+    <string name="video_profile">视频简介</string>
+    <string name="video_frame_rate">视频帧率</string>
+    <string name="camera_type">摄像头类型</string>
+    <string name="audio_bitrate">音频频率</string>
+    <string name="audio_sample_rate">音频采样率</string>
+    <string name="video_size">分辨率</string>
+    <string name="choose">确定</string>
+    <string name="Url">URL地址</string>
+    <string name="github">github</string>
+    <string name="rtmp_default">rtmp://192.168.212.164:1935/live/livestream</string>
+</resources>
