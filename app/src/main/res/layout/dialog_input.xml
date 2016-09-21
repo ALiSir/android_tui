@@ -11,7 +11,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="@string/rtmp_default"
-        android:hint="Please Input Video Path or URL..." >
+        android:hint="请输入视频推送地址" >
 
         <requestFocus />
     </EditText>
