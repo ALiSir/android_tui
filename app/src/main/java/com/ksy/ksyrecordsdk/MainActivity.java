@@ -347,7 +347,7 @@ public class MainActivity extends AppCompatActivity implements OrientationActivi
 
     @Override
     public void onNetworkChanged(int state) {
-        Toast.makeText(MainActivity.this, "onNetworkChanged :" + state, Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this, "网络状态 :" + state, Toast.LENGTH_SHORT).show();
     }
 
     @Override
