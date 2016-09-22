@@ -9,7 +9,6 @@ public class KSYFlvData {
     public final static int FLV_TYTPE_AUDIO = 12;
     public final static int NALU_TYPE_IDR = 5;
 
-
     public int dts;//解码时间戳
 
     public byte[] byteBuffer; //数据
